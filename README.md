@@ -5,7 +5,7 @@ View the registrations live at <https://cns-iu.github.io/ccf-hca-rui-locations/>
 
 ## Updating the rui locations
 
-After either editing the defaults in `create-rui-locations.js` or adding/editing rui registration json files in the rui_registrations folder, run
+After either editing the `defaults.json` or adding/editing rui registration json files in the rui_registrations folder, run
 
 ```bash
 node create-rui-locations.js

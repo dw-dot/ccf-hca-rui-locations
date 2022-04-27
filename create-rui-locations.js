@@ -6,14 +6,7 @@ const iris = {
   heart: 'http://purl.obolibrary.org/obo/UBERON_0000948'
 };
 
-const defaults = {
-  consortium_name: 'HCA',
-  provider_name: 'HCA',
-  provider_uuid: 'd97e6b70-5aca-4694-806b-5dc57e4f42c4',
-  linkBase: 'https://data.humancellatlas.org/',
-  thumbnail: 'assets/icons/ico-unknown.svg',
-  ruiLocationsDir: 'rui_registrations'
-}
+const defaults = JSON.parse(fs.readFileSync('defaults.json'));
 const rui_locations = [];
 
 for (const ruiFile of fs.readdirSync(defaults.ruiLocationsDir)) {
