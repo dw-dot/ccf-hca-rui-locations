@@ -1,8 +1,9 @@
 {
-  "consortium_name": "HCA",
-  "provider_name": "HCA",
+  "consortium_name": "Allen Institute for Brain Science",
+  "provider_name": "Allen Institute for Brain Science",
   "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
-  "linkBase": "https://data.humancellatlas.org/",
+  "linkBase": "https://assets.nemoarchive.org/dat-72qka5t", 
   "thumbnail": "assets/icons/ico-unknown.svg",
   "ruiLocationsDir": "rui_registrations"
 }
+
