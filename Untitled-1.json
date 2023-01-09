@@ -1,0 +1,921 @@
+[
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/9abfed4e-2fde-4d80-a8aa-7439a106d895_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "hca_FEMALE_apex",
+    "description": "hca_FEMALE_apex",
+    "link": "https://data.humancellatlas.org/hca_FEMALE_apex",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/9abfed4e-2fde-4d80-a8aa-7439a106d895_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_FEMALE_apex",
+        "description": "hca_FEMALE_apex",
+        "link": "https://data.humancellatlas.org/hca_FEMALE_apex",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/9abfed4e-2fde-4d80-a8aa-7439a106d895",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002084",
+            "http://purl.obolibrary.org/obo/UBERON_0002080"
+          ],
+          "x_dimension": 15,
+          "y_dimension": 24,
+          "z_dimension": 24,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/9abfed4e-2fde-4d80-a8aa-7439a106d895_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 23,
+            "y_rotation": -39,
+            "z_rotation": 35,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 141.742,
+            "y_translation": 42.995,
+            "z_translation": 85.266,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/9abfed4e-2fde-4d80-a8aa-7439a106d895_Dataset",
+            "@type": "Dataset",
+            "label": "hca_FEMALE_apex",
+            "descripition": "hca_FEMALE_apex",
+            "link": "https://data.humancellatlas.org/hca_FEMALE_apex",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/53b083ab-cb70-4096-b385-85590ddc370c_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "hca_FEMALE_left_atrium",
+    "description": "hca_FEMALE_left_atrium",
+    "link": "https://data.humancellatlas.org/hca_FEMALE_left_atrium",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/53b083ab-cb70-4096-b385-85590ddc370c_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_FEMALE_left_atrium",
+        "description": "hca_FEMALE_left_atrium",
+        "link": "https://data.humancellatlas.org/hca_FEMALE_left_atrium",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/53b083ab-cb70-4096-b385-85590ddc370c",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002079",
+            "http://purl.obolibrary.org/obo/UBERON_0002084",
+            "http://purl.obolibrary.org/obo/UBERON_0002078",
+            "http://purl.obolibrary.org/obo/UBERON_0002080",
+            "http://purl.obolibrary.org/obo/UBERON_0003978",
+            "http://purl.obolibrary.org/obo/UBERON_0002137"
+          ],
+          "x_dimension": 18,
+          "y_dimension": 18,
+          "z_dimension": 14,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/53b083ab-cb70-4096-b385-85590ddc370c_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 13,
+            "y_rotation": 24,
+            "z_rotation": 32,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 58.339,
+            "y_translation": 84.466,
+            "z_translation": 42.047,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/53b083ab-cb70-4096-b385-85590ddc370c_Dataset",
+            "@type": "Dataset",
+            "label": "hca_FEMALE_left_atrium",
+            "descripition": "hca_FEMALE_left_atrium",
+            "link": "https://data.humancellatlas.org/hca_FEMALE_left_atrium",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/2156f837-2ab2-4305-8e7f-8084249e91cd_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "hca_FEMALE_left_ventricle_free_wall",
+    "description": "hca_FEMALE_left_ventricle_free_wall",
+    "link": "https://data.humancellatlas.org/hca_FEMALE_left_ventricle_free_wall",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/2156f837-2ab2-4305-8e7f-8084249e91cd_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_FEMALE_left_ventricle_free_wall",
+        "description": "hca_FEMALE_left_ventricle_free_wall",
+        "link": "https://data.humancellatlas.org/hca_FEMALE_left_ventricle_free_wall",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/2156f837-2ab2-4305-8e7f-8084249e91cd",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002084"
+          ],
+          "x_dimension": 15,
+          "y_dimension": 14,
+          "z_dimension": 14,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/2156f837-2ab2-4305-8e7f-8084249e91cd_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 16,
+            "y_rotation": -19,
+            "z_rotation": 6,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 109.944,
+            "y_translation": 50.867,
+            "z_translation": 15.595,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/2156f837-2ab2-4305-8e7f-8084249e91cd_Dataset",
+            "@type": "Dataset",
+            "label": "hca_FEMALE_left_ventricle_free_wall",
+            "descripition": "hca_FEMALE_left_ventricle_free_wall",
+            "link": "https://data.humancellatlas.org/hca_FEMALE_left_ventricle_free_wall",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/9f2c1d5d-2ad4-4a7a-ad95-622c7328b554_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "hca_FEMALE_right_atrium",
+    "description": "hca_FEMALE_right_atrium",
+    "link": "https://data.humancellatlas.org/hca_FEMALE_right_atrium",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/9f2c1d5d-2ad4-4a7a-ad95-622c7328b554_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_FEMALE_right_atrium",
+        "description": "hca_FEMALE_right_atrium",
+        "link": "https://data.humancellatlas.org/hca_FEMALE_right_atrium",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/9f2c1d5d-2ad4-4a7a-ad95-622c7328b554",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002078"
+          ],
+          "x_dimension": 24,
+          "y_dimension": 26,
+          "z_dimension": 7,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/9f2c1d5d-2ad4-4a7a-ad95-622c7328b554_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": -5,
+            "y_rotation": -38,
+            "z_rotation": -10,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 19.268,
+            "y_translation": 61.216,
+            "z_translation": 90.679,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/9f2c1d5d-2ad4-4a7a-ad95-622c7328b554_Dataset",
+            "@type": "Dataset",
+            "label": "hca_FEMALE_right_atrium",
+            "descripition": "hca_FEMALE_right_atrium",
+            "link": "https://data.humancellatlas.org/hca_FEMALE_right_atrium",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/1fe61622-ba53-47c9-967e-e764c21b8189_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "hca_FEMALE_right_ventricle",
+    "description": "hca_FEMALE_right_ventricle",
+    "link": "https://data.humancellatlas.org/hca_FEMALE_right_ventricle",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/1fe61622-ba53-47c9-967e-e764c21b8189_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_FEMALE_right_ventricle",
+        "description": "hca_FEMALE_right_ventricle",
+        "link": "https://data.humancellatlas.org/hca_FEMALE_right_ventricle",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/1fe61622-ba53-47c9-967e-e764c21b8189",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002080"
+          ],
+          "x_dimension": 20,
+          "y_dimension": 20,
+          "z_dimension": 6,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/1fe61622-ba53-47c9-967e-e764c21b8189_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": -11,
+            "y_rotation": 4,
+            "z_rotation": -7,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 79.992,
+            "y_translation": 51.026,
+            "z_translation": 107.987,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/1fe61622-ba53-47c9-967e-e764c21b8189_Dataset",
+            "@type": "Dataset",
+            "label": "hca_FEMALE_right_ventricle",
+            "descripition": "hca_FEMALE_right_ventricle",
+            "link": "https://data.humancellatlas.org/hca_FEMALE_right_ventricle",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/05c11830-1526-4472-bd12-ea24dbcfd3cc_Donor",
+    "@type": "Donor",
+    "sex": "Female",
+    "label": "hca_FEMALE_septum",
+    "description": "hca_FEMALE_septum",
+    "link": "https://data.humancellatlas.org/hca_FEMALE_septum",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/05c11830-1526-4472-bd12-ea24dbcfd3cc_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_FEMALE_septum",
+        "description": "hca_FEMALE_septum",
+        "link": "https://data.humancellatlas.org/hca_FEMALE_septum",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/05c11830-1526-4472-bd12-ea24dbcfd3cc",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002094",
+            "http://purl.obolibrary.org/obo/UBERON_0002084",
+            "http://purl.obolibrary.org/obo/UBERON_0002080",
+            "http://purl.obolibrary.org/obo/UBERON_0002494",
+            "http://purl.org/sig/ont/fma/fma7264",
+            "http://purl.org/sig/ont/fma/fma7267"
+          ],
+          "x_dimension": 15,
+          "y_dimension": 15,
+          "z_dimension": 33,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/05c11830-1526-4472-bd12-ea24dbcfd3cc_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHFHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 34,
+            "y_rotation": -48,
+            "z_rotation": -8,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 110.011,
+            "y_translation": 26.117,
+            "z_translation": 76.623,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/05c11830-1526-4472-bd12-ea24dbcfd3cc_Dataset",
+            "@type": "Dataset",
+            "label": "hca_FEMALE_septum",
+            "descripition": "hca_FEMALE_septum",
+            "link": "https://data.humancellatlas.org/hca_FEMALE_septum",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/20a0c365-6a97-4224-ae14-16fba10c13f8_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "hca_MALE_apex",
+    "description": "hca_MALE_apex",
+    "link": "https://data.humancellatlas.org/hca_MALE_apex",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/20a0c365-6a97-4224-ae14-16fba10c13f8_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_MALE_apex",
+        "description": "hca_MALE_apex",
+        "link": "https://data.humancellatlas.org/hca_MALE_apex",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/20a0c365-6a97-4224-ae14-16fba10c13f8",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002494",
+            "http://purl.obolibrary.org/obo/UBERON_0002080",
+            "http://purl.obolibrary.org/obo/UBERON_0002094",
+            "http://purl.obolibrary.org/obo/UBERON_0002084"
+          ],
+          "x_dimension": 16,
+          "y_dimension": 16,
+          "z_dimension": 14,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/20a0c365-6a97-4224-ae14-16fba10c13f8_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 35,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 109.376,
+            "y_translation": 23.295,
+            "z_translation": 92.7,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/20a0c365-6a97-4224-ae14-16fba10c13f8_Dataset",
+            "@type": "Dataset",
+            "label": "hca_MALE_apex",
+            "descripition": "hca_MALE_apex",
+            "link": "https://data.humancellatlas.org/hca_MALE_apex",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/bb9dbc76-88b2-43ad-9401-e1e87424efa5_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "hca_MALE_left_atrium",
+    "description": "hca_MALE_left_atrium",
+    "link": "https://data.humancellatlas.org/hca_MALE_left_atrium",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/bb9dbc76-88b2-43ad-9401-e1e87424efa5_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_MALE_left_atrium",
+        "description": "hca_MALE_left_atrium",
+        "link": "https://data.humancellatlas.org/hca_MALE_left_atrium",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/bb9dbc76-88b2-43ad-9401-e1e87424efa5",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0003978",
+            "http://purl.obolibrary.org/obo/UBERON_0002135",
+            "http://purl.obolibrary.org/obo/UBERON_0002137",
+            "http://purl.obolibrary.org/obo/UBERON_0002079",
+            "http://purl.obolibrary.org/obo/UBERON_0002078",
+            "http://purl.obolibrary.org/obo/UBERON_0002094",
+            "http://purl.obolibrary.org/obo/UBERON_0002084"
+          ],
+          "x_dimension": 20,
+          "y_dimension": 20,
+          "z_dimension": 20,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/bb9dbc76-88b2-43ad-9401-e1e87424efa5_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 0,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 66.607,
+            "y_translation": 84.071,
+            "z_translation": 27.759,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/bb9dbc76-88b2-43ad-9401-e1e87424efa5_Dataset",
+            "@type": "Dataset",
+            "label": "hca_MALE_left_atrium",
+            "descripition": "hca_MALE_left_atrium",
+            "link": "https://data.humancellatlas.org/hca_MALE_left_atrium",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/760368bf-6b4c-4d92-aa2b-24e17fd947d3_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_MALE_left_ventricle_free_wall",
+        "description": "hca_MALE_left_ventricle_free_wall",
+        "link": "https://data.humancellatlas.org/hca_MALE_left_ventricle_free_wall",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/760368bf-6b4c-4d92-aa2b-24e17fd947d3",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002494",
+            "http://purl.org/sig/ont/fma/fma72655",
+            "http://purl.org/sig/ont/fma/fma7267",
+            "http://purl.obolibrary.org/obo/UBERON_0002080",
+            "http://purl.obolibrary.org/obo/UBERON_0002094",
+            "http://purl.obolibrary.org/obo/UBERON_0002084"
+          ],
+          "x_dimension": 12,
+          "y_dimension": 13,
+          "z_dimension": 16,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/760368bf-6b4c-4d92-aa2b-24e17fd947d3_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 27,
+            "y_rotation": 37,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 106.445,
+            "y_translation": 44.458,
+            "z_translation": 47.608,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/760368bf-6b4c-4d92-aa2b-24e17fd947d3_Dataset",
+            "@type": "Dataset",
+            "label": "hca_MALE_left_ventricle_free_wall",
+            "descripition": "hca_MALE_left_ventricle_free_wall",
+            "link": "https://data.humancellatlas.org/hca_MALE_left_ventricle_free_wall",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/7296fad6-bf8e-49da-8f4a-ef76ee4cfeac_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "hca_MALE_right_atrium",
+    "description": "hca_MALE_right_atrium",
+    "link": "https://data.humancellatlas.org/hca_MALE_right_atrium",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/7296fad6-bf8e-49da-8f4a-ef76ee4cfeac_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_MALE_right_atrium",
+        "description": "hca_MALE_right_atrium",
+        "link": "https://data.humancellatlas.org/hca_MALE_right_atrium",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/7296fad6-bf8e-49da-8f4a-ef76ee4cfeac",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0003978",
+            "http://purl.obolibrary.org/obo/UBERON_0002134",
+            "http://purl.obolibrary.org/obo/UBERON_0002078",
+            "http://purl.obolibrary.org/obo/UBERON_0002080"
+          ],
+          "x_dimension": 4,
+          "y_dimension": 20,
+          "z_dimension": 22,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/7296fad6-bf8e-49da-8f4a-ef76ee4cfeac_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 32,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 12.128,
+            "y_translation": 58.093,
+            "z_translation": 71.674,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/7296fad6-bf8e-49da-8f4a-ef76ee4cfeac_Dataset",
+            "@type": "Dataset",
+            "label": "hca_MALE_right_atrium",
+            "descripition": "hca_MALE_right_atrium",
+            "link": "https://data.humancellatlas.org/hca_MALE_right_atrium",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/f1790d4b-bbc0-434c-b8ed-f21e8b8be903_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "hca_MALE_right_ventricle",
+    "description": "hca_MALE_right_ventricle",
+    "link": "https://data.humancellatlas.org/hca_MALE_right_ventricle",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/f1790d4b-bbc0-434c-b8ed-f21e8b8be903_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_MALE_right_ventricle",
+        "description": "hca_MALE_right_ventricle",
+        "link": "https://data.humancellatlas.org/hca_MALE_right_ventricle",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/f1790d4b-bbc0-434c-b8ed-f21e8b8be903",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0002494",
+            "http://purl.org/sig/ont/fma/fma7264",
+            "http://purl.obolibrary.org/obo/UBERON_0002080",
+            "http://purl.obolibrary.org/obo/UBERON_0002094",
+            "http://purl.obolibrary.org/obo/UBERON_0002084"
+          ],
+          "x_dimension": 17,
+          "y_dimension": 8,
+          "z_dimension": 14,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/f1790d4b-bbc0-434c-b8ed-f21e8b8be903_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 76,
+            "y_rotation": -24,
+            "z_rotation": 21,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 52.957,
+            "y_translation": 41.476,
+            "z_translation": 95.283,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/f1790d4b-bbc0-434c-b8ed-f21e8b8be903_Dataset",
+            "@type": "Dataset",
+            "label": "hca_MALE_right_ventricle",
+            "descripition": "hca_MALE_right_ventricle",
+            "link": "https://data.humancellatlas.org/hca_MALE_right_ventricle",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-entity-context.jsonld",
+    "@id": "http://purl.org/ccf/1.5/fdb0d1f7-94d5-4628-b345-dbe4975966fd_Donor",
+    "@type": "Donor",
+    "sex": "Male",
+    "label": "hca_MALE_septum",
+    "description": "hca_MALE_septum",
+    "link": "https://data.humancellatlas.org/hca_MALE_septum",
+    "consortium_name": "HCA",
+    "provider_name": "HCA",
+    "provider_uuid": "d97e6b70-5aca-4694-806b-5dc57e4f42c4",
+    "samples": [
+      {
+        "@id": "http://purl.org/ccf/1.5/fdb0d1f7-94d5-4628-b345-dbe4975966fd_TissueBlock",
+        "@type": "Sample",
+        "sample_type": "Tissue Block",
+        "label": "hca_MALE_septum",
+        "description": "hca_MALE_septum",
+        "link": "https://data.humancellatlas.org/hca_MALE_septum",
+        "section_count": 1,
+        "section_size": 0.11,
+        "section_units": "millimeter",
+        "rui_location": {
+          "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+          "@id": "http://purl.org/ccf/1.5/fdb0d1f7-94d5-4628-b345-dbe4975966fd",
+          "@type": "SpatialEntity",
+          "creator": "Andreas Bueckle",
+          "creator_first_name": "Andreas",
+          "creator_last_name": "Bueckle",
+          "creation_date": "2021-11-16",
+          "ccf_annotations": [
+            "http://purl.obolibrary.org/obo/UBERON_0013702",
+            "http://purl.obolibrary.org/obo/UBERON_0000948",
+            "http://purl.obolibrary.org/obo/UBERON_0003978",
+            "http://purl.obolibrary.org/obo/UBERON_0002494",
+            "http://purl.org/sig/ont/fma/fma7264",
+            "http://purl.org/sig/ont/fma/fma72655",
+            "http://purl.org/sig/ont/fma/fma7262",
+            "http://purl.org/sig/ont/fma/fma7267",
+            "http://purl.obolibrary.org/obo/UBERON_0002080",
+            "http://purl.obolibrary.org/obo/UBERON_0002094",
+            "http://purl.obolibrary.org/obo/UBERON_0002084"
+          ],
+          "x_dimension": 15,
+          "y_dimension": 9,
+          "z_dimension": 18,
+          "dimension_units": "millimeter",
+          "placement": {
+            "@context": "https://hubmapconsortium.github.io/hubmap-ontology/ccf-context.jsonld",
+            "@id": "http://purl.org/ccf/1.5/fdb0d1f7-94d5-4628-b345-dbe4975966fd_placement",
+            "@type": "SpatialPlacement",
+            "target": "http://purl.org/ccf/latest/ccf.owl#VHMHeart",
+            "placement_date": "2021-11-16",
+            "x_scaling": 1,
+            "y_scaling": 1,
+            "z_scaling": 1,
+            "scaling_units": "ratio",
+            "x_rotation": 0,
+            "y_rotation": 37,
+            "z_rotation": 0,
+            "rotation_order": "XYZ",
+            "rotation_units": "degree",
+            "x_translation": 82.343,
+            "y_translation": 38.782,
+            "z_translation": 71.779,
+            "translation_units": "millimeter"
+          }
+        },
+        "datasets": [
+          {
+            "@id": "http://purl.org/ccf/1.5/fdb0d1f7-94d5-4628-b345-dbe4975966fd_Dataset",
+            "@type": "Dataset",
+            "label": "hca_MALE_septum",
+            "descripition": "hca_MALE_septum",
+            "link": "https://data.humancellatlas.org/hca_MALE_septum",
+            "technology": "OTHER",
+            "thumbnail": "assets/icons/ico-unknown.svg"
+          }
+        ]
+      }
+    ]
+  }
+]
